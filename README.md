@@ -1,6 +1,9 @@
 # SplunkNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+## Additional information
+
+The assets folder as of now contains the build which was created out of custom splunk app and the bh-build contains the build generated out of bh-toolkit skeleton. To read more about the integration steps read through [https://github.com/manit-bh/react-app-with-angular/blob/master/steps.md].
 
 ## Development server
 
@@ -26,6 +29,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Additional information
 
-The assets folder as of now contains the build which was created out of custom splunk app and the bh-build contains the build generated out of bh-toolkit skeleton. To read more about the integration steps read through [https://github.com/manit-bh/react-app-with-angular/blob/master/steps.md].
