@@ -1,0 +1,1 @@
+{"version":3,"sources":["global-styles.css"],"names":[],"mappings":"AACA,UACI,QAAS,CACT,SAAU,CACV,sBACJ,CACA,EAAI,qBAAwB","file":"main.717d9059.chunk.css","sourcesContent":["\nhtml, body {\n    margin: 0;\n    padding: 0;\n    font-family:sans-serif;\n}\n* { box-sizing: border-box; }"]}

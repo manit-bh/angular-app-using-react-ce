@@ -1,5 +1,8 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "cli": {
+    "analytics": false
+  },
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
@@ -27,9 +30,36 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/bh-build/static/css/5.6039b8ed.chunk.css",
+              "src/assets/bh-build/static/css/main.5de5501d.chunk.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/build/static/js/2.7a251538.chunk.js",
+              "src/assets/build/static/js/main.bd08684f.chunk.js",
+              "src/assets/build/static/js/runtime~main.9d872232.js",
+              "src/assets/bh-build/static/js/runtime-main.03111da3.js",
+              "src/assets/bh-build/static/css/5.6039b8ed.chunk.css",
+              "src/assets/bh-build/static/js/5.bdc0e695.chunk.js",
+              "src/assets/bh-build/static/css/main.5de5501d.chunk.css",
+              "src/assets/bh-build/static/js/main.8b1ca403.chunk.js",
+
+              "src/assets/bh-build/static/js/polyfills-dom.6383848b.chunk.js",
+              "src/assets/bh-build/static/js/1.e6ea647c.chunk.js",
+  "src/assets/bh-build/static/js/7.92551f87.chunk.js",
+  "src/assets/bh-build/static/js/8.06c63544.chunk.js",
+  "src/assets/bh-build/static/js/9.dbbcbe2c.chunk.js",
+  "src/assets/bh-build/static/js/10.32702e9e.chunk.js",
+  "src/assets/bh-build/static/js/11.85d71272.chunk.js",
+  "src/assets/bh-build/static/js/12.60188ba2.chunk.js",
+  "src/assets/bh-build/static/js/13.1e7dab14.chunk.js",
+  "src/assets/bh-build/static/js/14.245938e2.chunk.js",
+  "src/assets/bh-build/static/js/15.1b6b32bc.chunk.js",
+  "src/assets/bh-build/static/js/16.fcb2010a.chunk.js",
+  "src/assets/bh-build/static/js/17.7edf93f0.chunk.js",
+  "src/assets/bh-build/static/js/10.32702e9e.chunk.js",
+  "src/assets/bh-build/static/js/6.3f3b91e0.chunk.js",
+            ]
           },
           "configurations": {
             "production": {
